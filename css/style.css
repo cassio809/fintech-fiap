@@ -16,18 +16,18 @@ body {
 
 /*  HEADER  */
 .main-header {
-  height: 80px;
-  background-color: #101010;
-  border-bottom: 1px solid #222;
-  display: flex;
-  align-items: center;
-  padding: 0 24px;
+  /* height: 80px; */
+  /* background-color: #101010; */
+  /* border-bottom: 1px solid #222; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* padding: 0 24px; */
 }
 
 .logo {
-  color: #A2A2A2;
-  font-size: 32px;
-  font-weight: 700;
+  /* color: #A2A2A2; */
+  /* font-size: 32px; */
+  /* font-weight: 700; */
 }
 
 /*  LAYOUT CONTAINER (FLEXBOX)  */
