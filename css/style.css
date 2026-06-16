@@ -32,15 +32,15 @@ body {
 
 /*  LAYOUT CONTAINER (FLEXBOX)  */
 .auth-container {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 40px; 
-  padding: 40px 20px;
-  max-width: 1440px;
-  margin: 0 auto;
-  width: 100%;
+  /* flex: 1; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* gap: 40px;  */
+  /* padding: 40px 20px; */
+  /* max-width: 1440px; */
+  /* margin: 0 auto; */
+  /* width: 100%; */
 }
 
 /*  CARDS  */
