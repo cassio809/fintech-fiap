@@ -45,20 +45,20 @@ body {
 
 /*  CARDS  */
 .auth-card {
-  background-color: #1E1E1E;
-  border-radius: 10px;
-  padding: 40px;
-  width: 100%;
-  max-width: 552px;
-  min-height: 650px;
-  display: flex;
-  flex-direction: column;
+  /* background-color: #1E1E1E; */
+  /* border-radius: 10px; */
+  /* padding: 40px; */
+  /* width: 100%; */
+  /* max-width: 552px; */
+  /* min-height: 650px; */
+  /* display: flex; */
+  /* flex-direction: column; */
 }
 
 .register-card {
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* text-align: center; */
 }
 
 /*  TIPOGRAFIA  */
